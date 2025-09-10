@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "business-management-3d18f",
+          "appId": "1:975747675605:android:9e33b73eabf30cd614395c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "business-management-3d18f",
+          "configurations": {
+            "android": "1:975747675605:android:9e33b73eabf30cd614395c"
+          }
+        }
+      }
+    }
+  }
+}
